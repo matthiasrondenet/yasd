@@ -1,6 +1,8 @@
 # yasd
 
-Personal portfolio site for [yasd.dev](https://yasd.dev) — Yet Another Software Developer.
+[![Deploy to GitHub Pages](https://github.com/matthiasrondenet/yasd/actions/workflows/deploy.yml/badge.svg)](https://github.com/matthiasrondenet/yasd/actions/workflows/deploy.yml)
+
+Personal portfolio site — Yet Another Software Developer.
 
 Built with React 19, TypeScript, and Vite. No CSS framework, no UI library.
 
@@ -19,10 +21,10 @@ npm run dev
 
 ## Commands
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start dev server |
-| `npm run build` | Type-check and build for production |
-| `npm run preview` | Preview the production build |
-| `npm run lint` | Run ESLint |
-| `npm run lint:fix` | Run ESLint with auto-fix |
+| Command            | Description                         |
+| ------------------ | ----------------------------------- |
+| `npm run dev`      | Start dev server                    |
+| `npm run build`    | Type-check and build for production |
+| `npm run preview`  | Preview the production build        |
+| `npm run lint`     | Run ESLint                          |
+| `npm run lint:fix` | Run ESLint with auto-fix            |
